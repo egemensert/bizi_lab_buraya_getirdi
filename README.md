@@ -1,1 +1,3 @@
-# bizi_lab_buraya_getirdi
+# Merhaba EE
+
+Kurulum vs için -> https://anaconda.org/anaconda/python
